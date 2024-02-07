@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+.logo{
+    display: flex;
+    width: 100%;
+}
+.logo_main{
+    background-color: aqua;
+    width: 25%;
+    height: 100px;
+}
+.banner{
+    background-color: blueviolet;
+    width: 75%;
+    font-size: 25px;
+}
+.info{
+    background-color:khaki ;
+    height: 50px;
+}
+.content{
+    display: flex;
+    width: 100%;   
+}
+.introduction{
+    height: 700px;
+    width: 20%;
+}
+.introduction_main{
+    background-color: chocolate;
+    height: 50%;
+}
+.courses{
+    background-color: chartreuse;
+    height: 50%;
+}
+.middle{
+    width: 60%;
+}
+.slide{
+    display:flex;
+}
+.hot_news{
+    background-color: aquamarine;
+    width: 50%;
+    height: 200px;
+}
+.photo_slide{
+    background-color: coral;
+    width: 50%;
+}
+.news{
+    display: flex;
+    width: 100%;
+}
+.news1{
+    background-color: cornflowerblue;
+    width: 33.33%;
+    height: 200px;
+}
+.news2{
+    background-color: darkgreen;
+    width: 33.33%;
+}
+.news3{
+    background-color: darkkhaki;
+    width: 33.33%;
+}
+.news_bottom{
+    display: flex;
+    width: 100%;
+}
+.news4{
+    background-color: darkred;
+    width: 33.33%;
+    height: 200px;
+}
+.news5{
+    background-color: hotpink;
+    width: 33.33%;
+}
+.news6{
+    background-color: darkgrey;
+    width: 33.33%;
+}
+.right_content{
+    width: 20%;
+   
+    height:700px;
+}
+.calender{
+    background-color:rgb(255, 255, 248) ;
+    height: 33.33%;
+    
+}
+.graphs{
+   background-color: darkgoldenrod;
+   height: 33.33%;
+}
+.maps{
+    background-color: darkmagenta;
+    height: 33.33%;
+}
+.highlight{
+    background-color: rgb(43, 238, 245);
+    height: 100px;
+}
+.footer{
+    background-color: lightblue;
+    height: 80px;
+}
+.footer_main{
+    color: aliceblue;
+    padding-bottom: 20px;
+}
